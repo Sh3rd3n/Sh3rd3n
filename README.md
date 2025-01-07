@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🚀 Full Stack Developer based in Turin, Italy, with Sardinian roots.<br><br>Passionate about web development, AI, Photography, Traveling, and Kitesurfing 🏄‍♂️ 📸 ✈️</p>
+<p align="left">🚀 Senior Full Stack Developer based in Turin, Italy, with Sardinian roots.<br><br>Passionate about web development, AI, Photography, Traveling, and Kitesurfing 🏄‍♂️ 📸 ✈️</p>
 
 ###
 
