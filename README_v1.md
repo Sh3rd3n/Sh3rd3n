@@ -1,10 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=200&section=header&text=Sh3rd3n&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Luca%20Derosas&descSize=20&descColor=ffffff&descAlignY=55&background=0d1117" alt="header" />
-</p>
-
-<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF41&center=false&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%24+echo+'I+like+building+things';%24+sudo+ship+--force+--no-excuses;%24+cat+%2Fdev%2Fpassion+%7C+grep+fullstack;%24+mkdir+~/new-project+%26%26+cd+$_" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6B35&center=false&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=%24+echo+'I+like+building+things';%24+sudo+ship+--force+--no-excuses;%24+cat+%2Fdev%2Fpassion+%7C+grep+fullstack;%24+mkdir+~/new-project+%26%26+cd+$_" alt="Typing SVG" />
   </a>
 </p>
 
@@ -119,11 +115,9 @@ os = Linux (btw)
 
 ## `$ cat /var/log/github-stats.log`
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sh3rd3n&show_icons=true&theme=chartreuse-dark&bg_color=0d1117&hide_border=true&icon_color=00ff41&title_color=00ff41&text_color=c9d1d9" alt="GitHub Stats" height="195" />
-  &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=Sh3rd3n&theme=chartreuse-dark&background=0d1117&hide_border=true&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="GitHub Streak" height="195" />
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Sh3rd3n&theme=dark&background=0d1117&hide_border=true&ring=ff6b35&fire=ff6b35&currStreakLabel=ff6b35" alt="GitHub Streak" height="195" />
+</p>
 
 <br>
 
@@ -138,7 +132,7 @@ os = Linux (btw)
 ## `$ cat /var/log/activity.log`
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sh3rd3n&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=00ff41&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sh3rd3n&bg_color=0d1117&color=ff6b35&line=ff6b35&point=ffffff&area=true&area_color=ff6b35&hide_border=true" alt="Activity Graph" />
 </p>
 
 <br>
@@ -147,20 +141,20 @@ os = Linux (btw)
 
 <p align="center">
   <a href="https://linkedin.com/in/luca-derosas/">
-    <img src="https://img.shields.io/badge/LinkedIn-lucaderosas-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&color=0d1117&labelColor=00ff41" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-lucaderosas-0d1117?style=for-the-badge&logo=linkedin&logoColor=white&color=0d1117&labelColor=ff6b35" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://github.com/Sh3rd3n">
-    <img src="https://img.shields.io/badge/GitHub-Sh3rd3n-0d1117?style=for-the-badge&logo=github&logoColor=white&color=0d1117&labelColor=00ff41" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Sh3rd3n-0d1117?style=for-the-badge&logo=github&logoColor=white&color=0d1117&labelColor=ff6b35" alt="GitHub" />
   </a>
   &nbsp;
   <a href="https://lucaderosas.com">
-    <img src="https://img.shields.io/badge/Website-lucaderosas.com-0d1117?style=for-the-badge&logo=firefox&logoColor=white&color=0d1117&labelColor=00ff41" alt="Website" />
+    <img src="https://img.shields.io/badge/Website-lucaderosas.com-0d1117?style=for-the-badge&logo=firefox&logoColor=white&color=0d1117&labelColor=ff6b35" alt="Website" />
   </a>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff41&height=120&section=footer" alt="footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=ff6b35&height=120&section=footer" alt="footer" />
 </p>
